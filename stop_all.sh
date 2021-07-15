@@ -1,0 +1,2 @@
+#!/bin/bash
+runjobs ICSSTLSN BYREQ; runjobs ICSSTALLRAT BYREQ; runjobs ICSSTUM BYREQ; runjobs PRMSTOPURU DAILY;
